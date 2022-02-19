@@ -1,0 +1,47 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Getting Started](getting\_started.md)
+* [ECMAScript Compatibility](ecmascript-compatibility.md)
+* [REPL](repl.md)
+* [Web IDE](ide.md)
+* [CLI (Command Line Interface)](cli.md)
+
+## Boards
+
+* [Raspberry Pi Pico](boards/raspberry-pi-pico.md)
+
+## API Reference
+
+* [ADC](api-reference/adc.md)
+* [Analog I/O](api-reference/analog\_io.md)
+* [AT Command](api-reference/at-command.md)
+* [Board](api-reference/board.md)
+* [Button](api-reference/button.md)
+* [Console](api-reference/console.md)
+* [Device Driver](api-reference/device\_driver.md)
+* [Digital I/O](api-reference/digital\_io.md)
+* [Errors](api-reference/errors.md)
+* [Events](api-reference/events.md)
+* [File system](api-reference/file-system.md)
+* [Flash](api-reference/flash.md)
+* [Global](api-reference/global.md)
+* [GPIO](api-reference/gpio.md)
+* [Graphics](api-reference/graphics.md)
+* [HTTP](api-reference/http.md)
+* [I2C](api-reference/i2c.md)
+* [Interrupts](api-reference/interrupts.md)
+* [LED](api-reference/led.md)
+* [Net](api-reference/net.md)
+* [Path](api-reference/path.md)
+* [Process](api-reference/process.md)
+* [PWM](api-reference/pwm.md)
+* [RP2](api-reference/rp2.md)
+* [RTC](api-reference/rtc.md)
+* [SPI](api-reference/spi.md)
+* [Storage](api-reference/storage.md)
+* [Stream](api-reference/stream.md)
+* [Timers](api-reference/timers.md)
+* [UART](api-reference/uart.md)
+* [URL](api-reference/url.md)
+* [Wi-Fi](api-reference/wifi.md)
